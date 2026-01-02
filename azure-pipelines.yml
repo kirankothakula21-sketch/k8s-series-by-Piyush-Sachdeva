@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
- name: Hostedagen
+ name: MyagentPool
 
 steps:
 - script: echo Hello, world!
